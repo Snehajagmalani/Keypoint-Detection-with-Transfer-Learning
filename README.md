@@ -26,3 +26,12 @@ Clone the repository:
 ```bash
 git clone https://github.com/yourusername/keypoint-detection-transfer-learning.git
 cd keypoint-detection-transfer-learning
+```
+
+## Outcomes
+![image](https://github.com/Snehajagmalani/Keypoint-Detection-with-Transfer-Learning/assets/131886754/2140de33-cf61-4377-8885-4b4497e15c44)
+![image](https://github.com/Snehajagmalani/Keypoint-Detection-with-Transfer-Learning/assets/131886754/1dfb0fd0-4752-40cc-bcde-d5bb4e16c8ec)
+
+
+
+
